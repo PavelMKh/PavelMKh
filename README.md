@@ -9,4 +9,4 @@ You can reach me by Telegram: @pavelmkhomenko
 🔵 Java &emsp; 🔵Spring &emsp;🔵Spring Boot &emsp;🔵 Maven <!--- <br/> --> &emsp; 🔵 Git &emsp; 🔵 JUnit 
 
 ## 🔥 LeetCode Stats
-[![LeetCode Stats](https://zeynalmardanli-leetcode-stats.vercel.app/dark/pmkh)](https://zeynalmardanli-leetcode-stats.vercel.app/dark/Lshiroc)
+![Leetcode Stats](https://leetcard.jacoblin.cool/pmkh?theme=dark)
