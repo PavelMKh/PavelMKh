@@ -6,7 +6,7 @@
 You can reach me by Telegram: @pavelmkhomenko
 
 ## 🛠️ Languages and Tools
-🔵 Java &emsp; 🔵Spring &emsp;🔵Spring Boot &emsp;🔵 Maven <!--- <br/> --> &emsp; 🔵 Git &emsp; 🔵 JUnit 
-
+🔵 Java SE &emsp; 🔵Spring &emsp;🔵Maven &emsp;🔵 JDBC <!--- <br/> --> &emsp; 🔵 Hibernate &emsp; 
+🔵 PosgreSQL &emsp; 🔵JPA &emsp;🔵JUnit &emsp;🔵 Git <!--- <br/> --> &emsp; 🔵 IDEA &emsp; 🔵 Postman 
 ## 🔥 LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/pmkh?theme=dark)
