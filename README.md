@@ -1,5 +1,5 @@
 # Hello 👋 My name is Pavel! 🧑‍💻
-# I'm Python Developer from Moscow, Russia 🌍
+# I'm Java Developer from Moscow, Russia 🌍
 # Welcome to my Github Profile!
 
 ## 🚀 About me
