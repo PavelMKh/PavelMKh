@@ -3,7 +3,7 @@
 # Welcome to my Github Profile!
 
 ## 🚀 About me
-You can reach me by Telegram: @pavelmkhomenko
+You can reach me by Telegram: @pavel1kh
 
 ## 🛠️ Languages and Tools
 🟠 Python: Pandas, Numpy, Matplotlib, Scikit-Learn  
